@@ -126,6 +126,7 @@ This extension itself supports i18n as well. It will be auto-matched to the disp
 | Ukrainian (Українська) |  | [@uhodav](https://github.com/uhodav) |
 | Russian (Русский) |  | [@uhodav](https://github.com/uhodav) |
 | German (Deutsch) | [@alexanderniebuhr](https://github.com/alexanderniebuhr) | |
+| Italian (Italiano) | [@ananni13](https://github.com/ananni13) | |
 
 [**Help Translate**](https://github.com/lokalise/i18n-ally/wiki/Contribute#working-on-translations)
 
